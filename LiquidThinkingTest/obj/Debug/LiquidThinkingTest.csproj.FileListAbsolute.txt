@@ -1,0 +1,7 @@
+C:\Users\criss\source\repos\LiquidThinkingTest\LiquidThinkingTest\obj\Debug\LiquidThinkingTest.csprojResolveAssemblyReference.cache
+C:\Users\criss\source\repos\LiquidThinkingTest\LiquidThinkingTest\obj\Debug\LiquidThinkingTest.csproj.CoreCompileInputs.cache
+C:\Users\criss\source\repos\LiquidThinkingTest\LiquidThinkingTest\bin\Debug\LiquidThinkingTest.exe.config
+C:\Users\criss\source\repos\LiquidThinkingTest\LiquidThinkingTest\bin\Debug\LiquidThinkingTest.exe
+C:\Users\criss\source\repos\LiquidThinkingTest\LiquidThinkingTest\bin\Debug\LiquidThinkingTest.pdb
+C:\Users\criss\source\repos\LiquidThinkingTest\LiquidThinkingTest\obj\Debug\LiquidThinkingTest.exe
+C:\Users\criss\source\repos\LiquidThinkingTest\LiquidThinkingTest\obj\Debug\LiquidThinkingTest.pdb
